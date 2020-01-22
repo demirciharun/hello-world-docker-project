@@ -2,7 +2,7 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
-
+#testfortest
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'hello_world_docker_project.settings')
