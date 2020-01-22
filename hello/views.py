@@ -2,7 +2,7 @@ from django.shortcuts import render
 import textwrap
 from django.http import HttpResponse
 from django.views.generic.base import View
-
+#burasi test
 class HomePageView(View):
 
     def dispatch(request, *args, **kwargs):
