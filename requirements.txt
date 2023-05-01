@@ -1,2 +1,2 @@
 Django==2.2.4
-Flask==1.1.2
+Flask==2.3.2
